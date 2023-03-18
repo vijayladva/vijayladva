@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vijay Ladva
-- 👀 I’m interested to work with you in Nodejs ,iOS and Android technology’s.
-- 🌱 I’m currently learning Python for backend and website development.
+- 👀 I’m interested to work with you in Nodejs, NextJS, Angular, Django, and Mobile technology’s.
+- 🌱 I’m currently learning Python for backend and machine learinig.
 - 📫 You can reach me at skype : live:ladvavijay.programmer or drop mail at ladvavijay1995@gmail.com
 
 <!---
